@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "55929394127",
+    "project_id": "lezzoo-pharma-96539",
+    "storage_bucket": "lezzoo-pharma-96539.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55929394127:android:18c6f7cd8029df324bb8ba",
+        "android_client_info": {
+          "package_name": "com.lezzoopharma.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXkoPStcfflPdbIviIbHF_uPViucD37c0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

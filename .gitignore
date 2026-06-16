@@ -1,0 +1,15 @@
+.dart_tool/
+.gradle/
+.gradle-local/
+.gradle-temp/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+
+# IDE
+.idea/
+.vscode/
+
+# Logs
+*.log

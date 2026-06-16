@@ -8,7 +8,7 @@ import flutter_local_notifications
   let flutterLocalNotificationsPlugin = FlutterLocalNotificationsPlugin()
 
   override func application(
-     application: UIApplication,
+    _ application: UIApplication,
     didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?
   ) -> Bool {
     FirebaseApp.configure()
